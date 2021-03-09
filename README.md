@@ -5,7 +5,7 @@ GA for the Cellular Automata
 
 %%%%%%%%%%%%%%%%%%%%%%%%%        TRAINING       %%%%%%%%%%%%%%%%%%%%%%%%%
 
-                                                             We need to run the main file in CellularAutomata/GA1.py
+We need to run the main file in CellularAutomata/GA1.py
 
 —> For executing this file we need have some libraries like Numpy, cv2, json, matplot, PIL.
 —> Here we can adjust different parameters like pop_size, gen_size, mut_rate, cross_rate and no of runs (seed_size) before running.
@@ -21,7 +21,7 @@ OUTPUT :
 
 %%%%%%%%%%%%%%%%%%%%%%%%%         TESTING        %%%%%%%%%%%%%%%%%%%%%%%%%
 
-						We need to run the main file in CellularAutomata/checking_edge_detect.py
+We need to run the main file in CellularAutomata/checking_edge_detect.py
 
 —> All the images which I’m going to test are present in the same CellularAutomata folder.
 —> We can also add any other images of different sizes to test. But the images should be given in the format mentioned in the code for a 
